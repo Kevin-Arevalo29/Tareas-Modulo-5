@@ -8,7 +8,7 @@ let libros = [
 ];
 
 //Imprime en la consola el nombre y el autor del segundo libro.
-console.log(libros[1].autor)
+console.log("Nombre",libros[1].titulo,"Autor", libros[1].autor)
 
 //Actualiza el número de páginas del primer libro a 350.
 libros[0].paginas=350
