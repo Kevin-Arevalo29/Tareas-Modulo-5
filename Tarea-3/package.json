@@ -1,0 +1,17 @@
+{
+  "name": "tarea-3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node init.js",
+    "watch":"nodemon init.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
